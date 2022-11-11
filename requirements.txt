@@ -4,6 +4,7 @@ matplotlib
 seaborn
 statsmodels
 scipy
-pystan~=2.14
-prophet
+jupyter
+pystan==2.19.1.1
 fbprophet
+prophet
